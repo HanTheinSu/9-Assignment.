@@ -1,0 +1,22 @@
+# ninja log v5
+31	4309	7003347586990087	CMakeFiles/mySourceCode.dir/main.cpp.obj	1cede56f4d6bdfbf
+4313	7799	7003347621518104	mySourceCode.exe	45b37b45f002371c
+816	13653	7003356920073644	CMakeFiles/mySourceCode.dir/main.cpp.obj	1cede56f4d6bdfbf
+13723	29065	7003357071000550	mySourceCode.exe	45b37b45f002371c
+658	13916	7003364431039951	CMakeFiles/mySourceCode.dir/main.cpp.obj	1cede56f4d6bdfbf
+319	7024	7003374143437324	CMakeFiles/mySourceCode.dir/main.cpp.obj	1cede56f4d6bdfbf
+33	9024	7004236758961890	mySourceCode.exe	45b37b45f002371c
+974	6872	7004249758856793	CMakeFiles/mySourceCode.dir/main.cpp.obj	1cede56f4d6bdfbf
+6875	10821	7004249799166754	mySourceCode.exe	45b37b45f002371c
+1978	58669	7004257714345998	CMakeFiles/mySourceCode.dir/main.cpp.obj	1cede56f4d6bdfbf
+58733	86817	7004257998772669	mySourceCode.exe	45b37b45f002371c
+100	5467	7006804514552147	CMakeFiles/mySourceCode.dir/main.cpp.obj	1cede56f4d6bdfbf
+5468	14658	7006804606420236	mySourceCode.exe	45b37b45f002371c
+92	2548	7006805232430115	CMakeFiles/mySourceCode.dir/main.cpp.obj	1cede56f4d6bdfbf
+2550	6817	7006805273990036	mySourceCode.exe	45b37b45f002371c
+197	5275	7006807771784562	CMakeFiles/mySourceCode.dir/main.cpp.obj	1cede56f4d6bdfbf
+5276	7655	7006807797876528	mySourceCode.exe	45b37b45f002371c
+236	3099	7006821896534344	CMakeFiles/mySourceCode.dir/main.cpp.obj	1cede56f4d6bdfbf
+3103	5489	7006821921717681	mySourceCode.exe	45b37b45f002371c
+698	5589	7006835345379067	CMakeFiles/mySourceCode.dir/main.cpp.obj	1cede56f4d6bdfbf
+5594	11235	7006835402406310	mySourceCode.exe	45b37b45f002371c
